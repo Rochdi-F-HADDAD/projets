@@ -1,17 +1,17 @@
-# 📡 Nouvelle Formulation de l'Impédance Caractéristique du GOR Anisotrope
+# 👨‍💻 Portfolio de Rochdi Fares HADDAD
 
-Bienvenue sur le répertoire de mon Projet de Fin de Cycle. 
+Bienvenue sur mon GitHub ! Étudiant en **Master 1 Réseaux et Télécommunications** (Major de promotion) à l'Université Paris-Saclay, ce dépôt regroupe mes projets académiques et personnels.
 
-## 🎓 Contexte Académique
-* **Institution :** Université des Sciences et de la Technologie Houari Boumediene (USTHB) 
-* **Département :** Télécommunication 
-* **Auteurs :** HADDAD Rochdi Fares et ABDELAZIZ Radia 
-* **Date :** Mai 2024 
+Je suis passionné par l'administration systèmes (Linux), l'ingénierie des réseaux (TCP/IP), et le développement Python appliqué aux télécommunications et à la cybersécurité.
 
-## 🎯 Résumé de l'Étude   
-Ce projet a pour but de déterminer analytiquement l'impédance caractéristique d'une structure guidante de type ligne à ailettes. Cette ligne est transformée en un simple guide d'ondes rectangulaire métallique, aux dimensions transverses arbitraires, rempli d'un milieu isotrope ou anisotrope. 
+## 📂 Mes Projets
 
-Cette étude propose une nouvelle expression théorique qui sert de référence pour évaluer la précision des résultats numériques issus de la méthode des moments.
+* 📁 **[Projet-Guides-dOndes](./Projet-Guides-dOndes)** : Modélisation électromagnétique et optimisation (Projet de Fin d'Études).
+* 📁 **[Projet-MPTCP](./Projet-MPTCP)** : Configuration, scripts d'automatisation et analyse de trafic Multipath TCP sous Linux (Work in Progress).
 
-## 📄 Consulter le Mémoire
-Cliquez sur le fichier `PFC2024-mémoire-sujet3 (1).pdf` ci-dessus pour lire le document complet détaillant la méthodologie, les équations électromagnétiques et les résultats analytiques.
+## 🛠️ Stack Technique
+* **Réseaux & Sécurité :** TCP/IP, Wireshark, SIEM, Kali Linux.
+* **Systèmes :** Linux (Debian/Ubuntu), Windows Server.
+* **Développement :** Python, Bash, C/C++.
+
+📫 **Me contacter :** rochdi.haddad.RH@gmail.com
